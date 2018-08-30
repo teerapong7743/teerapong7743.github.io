@@ -1,6 +1,11 @@
+
 html{
     background-color:bisque;
     font-family: 'Verdena', sans-serif;
+}
+
+body{
+    width: 1200px;
 }
 
 h1{
